@@ -174,3 +174,15 @@
 			长期布局
 				生态共建：参与制定多Agent通信协议与安全规范；
 				人才储备：培养兼具NLP、工程与领域知识的复合型团队。
+	2. 提示工程 Prompt Engineering
+		Prompt是对模型的提问：好提示词 = 立角色 + 迷问题 + 定目标 + 补要求
+	3. 上下文工程 Context Engineering
+		上下文压缩
+		记忆&摘要
+		过滤
+	4. RAG（检索增强生成）
+		RAG（Retrieval-Augmented Generation）在不更改模型参数的基础上，通过“知识外挂”的手段来提升大模型应用的准确性，以此来弥补大模型自身存在的幻觉、时效性差、缺乏专业领域知识等缺陷。
+	5. 驾驭工程 Harness Engineering
+		控制认知框架：AGENTS.md   agent的工作手册
+		控制能力边界：限制工具
+		用标准工作流程控制行为
