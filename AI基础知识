@@ -184,5 +184,5 @@
 		RAG（Retrieval-Augmented Generation）在不更改模型参数的基础上，通过“知识外挂”的手段来提升大模型应用的准确性，以此来弥补大模型自身存在的幻觉、时效性差、缺乏专业领域知识等缺陷。
 	5. 驾驭工程 Harness Engineering
 		控制认知框架：AGENTS.md   agent的工作手册
-		控制能力边界：限制工具
+		控制能力边界：工具
 		用标准工作流程控制行为
